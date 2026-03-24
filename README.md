@@ -27,10 +27,10 @@ Soy un apasionado por crear soluciones tecnológicas que simplifiquen la vida de
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Navis2006&layout=compact&theme=vision-glow)
+![Estadísticas de Navis2006](https://github-readme-stats.vercel.app/api?username=Navis2006&show_icons=true&theme=vision-glow&rank_icon=github)
 
 ---
 
 ### 📫 ¿Cómo contactarme?
-- 💼 [LinkedIn](linkedin.com/in/angel-ernesto-nava-sanchez-16530532b)
+- 💼 [LinkedIn](https://linkedin.com/in/angel-ernesto-nava-sanchez-16530532b)
 - 📧 angel.er.nava.sa@gmail.com
